@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="83" viewBox="0 0 242 83">
+  <g id="Group_25" data-name="Group 25" transform="translate(-438 -32)">
+    <text id="ubezpieczenia" transform="translate(623 111)" fill="#0312a0" font-size="18" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="-55.755" y="0">ubezpieczenia</tspan></text>
+    <text id="twojefinanse" transform="translate(559 92)" fill="#0312a0" font-size="43" font-family="Lato-Heavy, Lato" font-weight="800"><tspan x="-120.271" y="0">twoje</tspan><tspan y="0" font-family="Lato-Light, Lato" font-weight="300">finanse</tspan></text>
+  </g>
+  <g id="Rectangle_86" data-name="Rectangle 86" transform="translate(193 28) rotate(180)" fill="none" stroke="#fe7a22" stroke-width="4">
+    <path d="M10,0H42a0,0,0,0,1,0,0V18A10,10,0,0,1,32,28H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" stroke="none"/>
+    <path d="M10,2H40a0,0,0,0,1,0,0V18a8,8,0,0,1-8,8H2a0,0,0,0,1,0,0V10A8,8,0,0,1,10,2Z" fill="none"/>
+  </g>
+  <g id="Rectangle_87" data-name="Rectangle 87" transform="translate(126 8)" fill="none" stroke="#fe7a22" stroke-width="4">
+    <path d="M0,0H19A10,10,0,0,1,29,10V20a0,0,0,0,1,0,0H10A10,10,0,0,1,0,10V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M2,2H19a8,8,0,0,1,8,8v8a0,0,0,0,1,0,0H10a8,8,0,0,1-8-8V2A0,0,0,0,1,2,2Z" fill="none"/>
+  </g>
+</svg>

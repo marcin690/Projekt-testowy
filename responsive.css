@@ -1,0 +1,125 @@
+.cta-section {
+    background-position: 38% 76%;
+}
+
+#contactForm {
+    background: rgb(255, 255, 255, .9);
+}
+
+.offer-section {
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bg-overflow {
+    background-color: var(--blue);
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+    bottom: 1px;
+    position: absolute;
+    opacity: 75%;
+}
+
+
+@media (min-width: 576px) {
+
+}
+
+
+@media (min-width: 768px) {
+    .bg-overflow{
+        background-color: var(--blue);
+        height: 32%;
+        width: 100%;
+        z-index: 0;
+        bottom: 1px;
+        position: absolute;
+        opacity: 75%;
+    }
+
+    #contactForm {
+        background: rgb(255, 255, 255, .9);
+    }
+
+    .bg-overflow {
+        background-color: var(--blue);
+        height: 100%;
+        width: 100%;
+        z-index: 0;
+        bottom: 1px;
+        position: absolute;
+        opacity: 75%;
+    }
+ }
+
+
+@media (min-width: 992px) {
+    .bg-overflow{
+        background-color: var(--blue);
+        height: 32%;
+        width: 100%;
+        z-index: 0;
+        bottom: 1px;
+        position: absolute;
+        opacity: 75%;
+    }
+
+    .offer-section {
+        background-position: 100%;
+        background-size: cover;
+    }
+
+    #contactForm {
+        background: rgb(255, 255, 255);
+    }
+
+    .bg-overflow {
+        background-color: var(--blue);
+        height: 32%;
+        width: 100%;
+        z-index: 0;
+        bottom: 1px;
+        position: absolute;
+        opacity: 75%;
+    }
+    
+ }
+
+
+@media (min-width: 1200px) {
+    .bg-overflow{
+        background-color: var(--blue);
+        height: 32%;
+        width: 100%;
+        z-index: 0;
+        bottom: 1px;
+        position: absolute;
+        opacity: 75%;
+    }
+
+    .offer-section {
+        background-position: 100%;
+        background-size: auto;
+    }
+
+    
+ }
+
+@media (min-width: 1400px) {
+    .bg-overflow{
+        background-color: var(--blue);
+        height: 32%;
+        width: 100%;
+        z-index: 0;
+        bottom: 0px;
+        position: absolute;
+        opacity: 75%;
+    }
+
+    .offer-section {
+        background-position: 100%;
+        background-size: auto;
+    }
+ }
